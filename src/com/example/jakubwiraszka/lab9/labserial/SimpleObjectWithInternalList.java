@@ -1,4 +1,4 @@
-package com.example.jakubwiraszka.lab9.labserial_prep;
+package com.example.jakubwiraszka.lab9.labserial;
 
 import java.util.ArrayList;
 import java.util.List;

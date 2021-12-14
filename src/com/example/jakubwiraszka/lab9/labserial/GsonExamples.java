@@ -1,4 +1,4 @@
-package com.example.jakubwiraszka.lab9.labserial_prep;
+package com.example.jakubwiraszka.lab9.labserial;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,5 +1,15 @@
-package com.example.jakubwiraszka.lab9.labserial_prep;
 
+Proszę ściągnąć:
+https://search.maven.org/artifact/com.google.code.gson/gson/2.8.6/jar
+
+W dowolnym miejscu na dysku utwórz folder o nazwie "jars" i przekopiuj tam pobrany plik .jar
+
+W menu File -> Project Structure
+Po lewej stronie wybierz 'Libraries' z obszaru 'Project Settings'
+kliknij '+' i wskaż utworzony katalog o nazwie 'jars' (nazwa może być dowolna).
+
+Aby przetestować, skopiuj poniższy kod do pliku (pamiętaj o dostosowaniu nazwy klasy do nazwy pliku:
+/*
 import com.google.gson.Gson;
 
 import java.util.Arrays;
@@ -9,7 +19,7 @@ public class GsonTest {
         Gson gson = new Gson();
         System.out.println(gson.toJson(1));
         System.out.println(gson.toJson("abcd"));
-        System.out.println(gson.toJson(10L));
+        System.out.println(gson.toJson(new Long(10)));
         int[] values = { 1 };
         System.out.println(gson.toJson(values));
 
@@ -23,3 +33,4 @@ public class GsonTest {
         Arrays.stream(anotherStr).forEach(System.out::println);
     }
 }
+*/

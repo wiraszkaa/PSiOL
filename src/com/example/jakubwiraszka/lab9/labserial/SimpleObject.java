@@ -1,4 +1,4 @@
-package com.example.jakubwiraszka.lab9.labserial_prep;
+package com.example.jakubwiraszka.lab9.labserial;
 
 public class SimpleObject {
     private int id;
