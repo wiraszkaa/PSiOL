@@ -1,7 +1,5 @@
 package com.example.jakubwiraszka.lab8;
 
-import com.example.jakubwiraszka.lab8.UrlObject;
-import com.example.jakubwiraszka.lab8.UrlParser;
 import org.junit.Test;
 import org.mockito.Mockito;
 import java.util.HashMap;

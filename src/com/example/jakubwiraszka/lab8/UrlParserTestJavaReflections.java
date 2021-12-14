@@ -1,9 +1,7 @@
 package com.example.jakubwiraszka.lab8;
 
-import com.example.jakubwiraszka.lab8.UrlParser;
 import org.junit.Test;
 import org.junit.function.ThrowingRunnable;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

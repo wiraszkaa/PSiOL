@@ -12,6 +12,6 @@ public class LabUTExercise {
       Przy testowaniu ścieżki, która zwraca poprawny WeatherObject, sprawdź tylko czy zwrócony został poprawny typ, nie musisz
       weryfikować pól zwracanego obiektu typu WeatherObject.
       Zad. * Jak można zmienić klasę WeatherDownloader, aby dało się przetestować pola obiektu WeatherObject?
-
+            Na przykład: pola obiektu WeatherObject jako osobne klasy, wtedy można stworzyć ich mocki do testowania
      */
 }

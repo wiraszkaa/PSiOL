@@ -1,9 +1,7 @@
 package com.example.jakubwiraszka.lab8;
 
-import com.example.jakubwiraszka.lab8.*;
 import org.junit.Test;
 import org.mockito.Mockito;
-
 import javax.xml.ws.http.HTTPException;
 import java.security.InvalidParameterException;
 import java.util.HashMap;

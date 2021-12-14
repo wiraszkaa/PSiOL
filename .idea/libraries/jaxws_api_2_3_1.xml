@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jaxws-api-2.3.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../Java/junit/jaxws-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/Libraries/jaxws-api-2.3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
